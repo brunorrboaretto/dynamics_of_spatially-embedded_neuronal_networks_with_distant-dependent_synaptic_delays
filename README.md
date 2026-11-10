@@ -6,7 +6,7 @@ This repository contains the computational codes developed to investigate the dy
 
 **Title:** Dynamics of spatially embedded neuronal networks with distance-dependent synaptic delays
 
-**Authors:** Cristina Jordi and Bruno R. R. Boaretto.
+**Authors:** Cristina Masoller, Jordi Soriano-Fradera and Bruno R. R. Boaretto.
 
 **Journal:** *Philosophical Transactions of the Royal Society B: Biological Sciences* (The Royal Society).
 
